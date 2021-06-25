@@ -3,7 +3,7 @@
 ---
 ### About Me 🙋‍♂️
  - I'm a DevOps & Cloud Computing enthusiast that enjoys automating processes and integrating tools and technologies. Building projects regarding the same helps in delving deeper into this domain. Also I've integrated the aforementioned technologies with technologies like Machine Learning and Big Data(Hadoop).
- - I believe in the concept of sharing, and therefore I usually blog about my approach towards a particular project on platform like <a href="satyamcs1999.medium.com">Medium</a>.
+ - I believe in the concept of sharing, and therefore I usually blog about my approach towards a particular project on platform like <a href="https://satyamcs1999.medium.com">Medium</a>.
  - I recently started contributing to open source by building an Ansible Role based on <a href="https://galaxy.ansible.com/thespecguy/k8scluster">Kubernetes Cluster</a> and uploading it on Ansible Galaxy, do check it out and suggestions are always welcome.
 
 ---
